@@ -1,5 +1,4 @@
 # WhatsApp Key & Database Extractor
-# This is not working post terminal launch, only demon gets initialized ad shows started on port but not started
 Extract WhatsApp encryption keys and local message databases from non-rooted Android devices for backup analysis and
 message recovery.
 
