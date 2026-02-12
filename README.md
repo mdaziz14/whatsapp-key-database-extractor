@@ -1,5 +1,5 @@
 # WhatsApp Key & Database Extractor
-
+# This is not working post terminal launch
 Extract WhatsApp encryption keys and local message databases from non-rooted Android devices for backup analysis and
 message recovery.
 
